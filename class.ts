@@ -1,5 +1,4 @@
-export {};
-class Employee {
+export class Employee {
   /* public name: string;
   private age: number;
   readonly male: boolean;
