@@ -1,4 +1,4 @@
-export {};
+// GENERICS INTERFACE
 interface Resource<T> {
   uid: number;
   name: string;
